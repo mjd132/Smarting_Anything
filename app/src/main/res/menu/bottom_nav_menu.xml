@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/buttons"
+        android:id="@+id/buttonsNav"
+        android:icon="@drawable/ic_button"
+
+        />
+    <item
+        android:title="@string/actions"
+        android:id="@+id/actionsNav"
+        android:icon="@drawable/ic_actions" />
+
+</menu>
